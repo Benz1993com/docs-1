@@ -30,6 +30,8 @@ Open your browser and navigate to http://localhost:4321.
 
 ### Project Structure
 
+test
+
 Some important files and directories:
 
 - `astro.config.mjs` - Astro configuration file.
